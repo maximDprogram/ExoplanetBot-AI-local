@@ -1,0 +1,7 @@
+openai 
+aiogram 
+pandas 
+tiktoken 
+scipy 
+nest_asyncio 
+python-dotenv

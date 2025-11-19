@@ -50,19 +50,19 @@ venv\Scripts\activate
 source venv/bin/activate
 ````
 
-3. Установите зависимости:
+4. Установите зависимости:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. В файле `.env` замените токен:
+5. В файле `.env` замените токен:
 
 ```python
 TELEGRAM_TOKEN=YOUR_BOT_TOKEN
 ```
 
-5. Запустите бота:
+6. Запустите бота:
 
 ```bash
 python main.py
